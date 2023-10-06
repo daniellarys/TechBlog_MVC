@@ -11,7 +11,7 @@ TechBlog MVC based on ASP.NET
 - Client & Server side validations
 - Authorization by role
 
-- The project package is password protected. If you like to see what is inside, leave a comment on my webpage http://elektro-daniel.cz/ or e-mail me.
+- The project package is password protected. If you like to see what is inside, leave a comment on my webpage [http://elektro-daniel.cz/](http://elektro-daniel.cz/#contact) or e-mail me.
 - Feel free to ask.
 
 The Database
