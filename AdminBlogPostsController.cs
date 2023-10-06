@@ -1,13 +1,13 @@
-﻿using Bloggie.Web.Models.Domain;
-using Bloggie.Web.Models.ViewModels;
-using Bloggie.Web.Repositories;
+using TechBlog.Web.Models.Domain;
+using TechBlog.Web.Models.ViewModels;
+using TechBlog.Web.Repositories;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Runtime.InteropServices;
 
-namespace Bloggie.Web.Controllers
+namespace TechBlog.Web.Controllers
 {
 	[Authorize(Roles = "Admin")]
 	public class AdminBlogPostsController : Controller
