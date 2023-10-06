@@ -1,8 +1,8 @@
-﻿using Bloggie.Web.Models.ViewModels;
+using TechBlog.Web.Models.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Bloggie.Web.Controllers
+namespace TechBlog.Web.Controllers
 {
 	public class AccountController : Controller
 	{
