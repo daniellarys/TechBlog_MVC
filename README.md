@@ -13,3 +13,11 @@ TechBlog MVC based on ASP.NET
 
 - The project package is password protected. If you like to see what is inside, leave a comment on my webpage http://elektro-daniel.cz/ or e-mail me.
 - Feel free to ask.
+
+The Database
+- Project contain two databases
+- BloggieDb & BloggieAuthDb
+- First one is mainly directed for content purpose
+- The other one is for managing Accounts
+- As you get access to the files, you get *.bacpac too. They are for importing databases with/without data
+- I already inserted some values (two articles) into databases so you can test it out in a few minutes!
